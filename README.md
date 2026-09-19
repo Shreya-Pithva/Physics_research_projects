@@ -2,7 +2,7 @@
 
 This repository contains my computational and theoretical physics projects that I have worked on during my undergraduate and master's studies at the Indian Institute of Science (IISc), Bangalore.
 
-My interests lie in using quantum information, quantum computing, and tensor-network methods to study fundamental questions in physics.
+
 ---
 
 ## Tensor Networks and Quantum Many-Body Physics
@@ -17,7 +17,7 @@ Tensor-network study of lattice scalar φ⁴ theory using Matrix Product States 
 - Tangent-space quasiparticle excitations
 - TEBD (Time-Evolving Block Decimation)
 - TDVP (Time-Dependent Variational Principle)
-- Quasiparticle excitations and its prapogation
+- Quasiparticle excitations and their propagation
 - IMPS and UMPS
 - Real-time dynamics
 
@@ -38,10 +38,24 @@ Study of elementary excitations in an interacting quantum spin chain using the M
 - Dispersion relations and group velocities
 - TDVP real-time evolution
 - Quasiparticle scattering
-- AKLT model benchmarking
+
 
 📁 `tensor-networks/heisenberg-quasiparticles/.`
 
+---
+### AKLT Model
+
+Tensor-network study of the Affleck–Kennedy–Lieb–Tasaki (AKLT) spin chain, used as a benchmark for Matrix Product State methods and numerical algorithms.
+
+**Methods**
+- Matrix Product States (MPS)
+- DMRG
+- Ground-state calculations
+- Correlation functions
+- Entanglement properties
+- Tensor-network benchmarking
+
+📁 `tensor-networks/aklt-model/.`
 ---
 
 ## Quantum Information Scrambling
@@ -57,7 +71,7 @@ Numerical study of quantum information scrambling and its connection to the Hayd
 - Scramblers
 - Information recovery
 
-📁 `quantum-scrambling/`
+📁 `quantum-scrambling/.`
 
 ---
 
@@ -67,7 +81,7 @@ Numerical study of quantum information scrambling and its connection to the Hayd
 
 Theoretical and numerical study of quantum non-demolition (QND) measurement protocols and repeated quantum measurements in a Cavity with an unknown photon distribution.
 
-📁 `quantum-measurement/qnd-measurements/`
+📁 `quantum-measurement/qnd-measurements/.`
 
 ---
 
@@ -86,7 +100,7 @@ Implementations and numerical studies involving:
 - Suzuki–Trotter time evolution
 - Quantum simulation using Qiskit
 
-📁 `quantum-computing/`
+📁 `quantum-computing/.`
 
 ---
 
