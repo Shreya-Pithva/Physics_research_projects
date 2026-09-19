@@ -14,7 +14,7 @@ The aim is to construct quasiparticle excitations, form propagating wave packets
 - Dispersion relations and group velocities
 - TDVP real-time evolution
 - Quasiparticle scattering
-- AKLT model benchmarking
+
 
 ## Tools
 
