@@ -118,4 +118,4 @@ Individual project folders contain their own README files explaining the physics
 
 ---
 
-**Website:** [shreya-pithva.github.io](https://shreya-pithva.github.io)
+
