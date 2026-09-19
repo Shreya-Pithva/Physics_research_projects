@@ -43,6 +43,7 @@ Study of elementary excitations in an interacting quantum spin chain using the M
 📁 `tensor-networks/heisenberg-quasiparticles/.`
 
 ---
+
 ### AKLT Model
 
 Tensor-network study of the Affleck–Kennedy–Lieb–Tasaki (AKLT) spin chain, used as a benchmark for Matrix Product State methods and numerical algorithms.
@@ -56,6 +57,7 @@ Tensor-network study of the Affleck–Kennedy–Lieb–Tasaki (AKLT) spin chain,
 - Tensor-network benchmarking
 
 📁 `tensor-networks/aklt-model/.`
+
 ---
 
 ## Quantum Information Scrambling
