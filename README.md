@@ -93,8 +93,6 @@ Theoretical and numerical study of quantum non-demolition (QND) measurement prot
 
 Quantum simulation of light–matter interaction models using quantum circuits.
 
-### Quantum Algorithms
-
 Implementations and numerical studies involving:
 
 - Quantum Phase Estimation (QPE)
